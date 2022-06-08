@@ -1,8 +1,3 @@
-# rackt-codemod [![npm][npm-badge]][npm]
-[Codemod](https://github.com/facebook/jscodeshift) scripts for Rackt libraries.
-
-[![Discord][discord-badge]][discord]
-
 ## Usage
 
 Install jscodeshift and rackt-codemod from npm:
